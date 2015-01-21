@@ -1,4 +1,3 @@
-
 public class CItest {
 	static int result(int i)
 	{
@@ -7,6 +6,5 @@ public class CItest {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		d./
-System.out.println("Hello worlds");}
+System.out.println("Hello    worlds");}
 }
