@@ -7,6 +7,7 @@ public class function1test {
 
 	@Test
 	public void test() {
+		test;
 	
 	}
 
