@@ -12,5 +12,4 @@ public class CItestTest {
 assertEquals(1, CItest.result(1));
 
 	}
-
 }
